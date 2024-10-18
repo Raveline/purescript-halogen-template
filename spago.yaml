@@ -1,0 +1,11 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - halogen
+    - prelude
+  name: halogen-project
+workspace:
+  extraPackages: {}
+  packageSet:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.4-20220816/packages.json
